@@ -1,0 +1,3 @@
+# The gateway itself has NO runtime dependencies (standard library only).
+# Optional, only if you switch to the real Anthropic adapter:
+#   pip install anthropic
